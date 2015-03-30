@@ -1,6 +1,5 @@
 (ns resolve-fail.core
-  (:import resolve_fail.Thing)
-  )
+  (:import resolve_fail.Thing))
 
 (defn foo
   [x ^String y]
